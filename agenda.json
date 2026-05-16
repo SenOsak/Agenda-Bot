@@ -1,0 +1,38 @@
+{
+  "2026-05-15": [
+    {
+      "id": 1,
+      "texto": "Hora de dormir",
+      "prioridad": "normal",
+      "hora": "23:00",
+      "hecho": false,
+      "recordatorio_enviado": false
+    },
+    {
+      "id": 2,
+      "texto": "reunión urgente",
+      "prioridad": "urgente",
+      "hora": "15:00",
+      "hecho": true,
+      "recordatorio_enviado": false
+    },
+    {
+      "id": 3,
+      "texto": "comprar leche",
+      "prioridad": "normal",
+      "hora": null,
+      "hecho": false,
+      "recordatorio_enviado": false
+    }
+  ],
+  "2026-05-16": [
+    {
+      "id": 1,
+      "texto": "llamar al médico",
+      "prioridad": "normal",
+      "hora": "10:00",
+      "hecho": false,
+      "recordatorio_enviado": false
+    }
+  ]
+}
